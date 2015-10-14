@@ -1,0 +1,8 @@
+# Evaluation
+I think that overall, I have met the criteria required for the A453 programming task. For the first point of my success criteria, I said that my program should run without any errors. This method of success criteria has been met. I used the method of ‘erroneous, extreme, and normal’ testing to eliminate any potential errors with the program, and to make sure it would run smoothly.
+
+The next method of success criteria for my program, was that the program correctly calculates the user’s score. I ran the program and answered the questions correct and some incorrect to see if the final score at the end had been calculated correctly. This method of success criteria is important because it will inform the user of their total score out of 10 at the end of the quiz. 
+
+Another important piece of criteria I feel my program had to meet, was that the program would generate the questions for my quiz in numerical order. To do this, I made sure that the counter variable increased by 1, every time a question was answered. This is important because it makes the quiz more user friendly and lets the user know which question they are on. It also allows the user to work out how many questions they have until the end of the quiz.
+
+The final piece of success criteria for my program, was that the program would generate the questions based on random integers. To do this, I imported Python’s ‘random module’ and then assigned the variable of each number to a range of numbers to be randomly selected. Each time the loop ran, a new random number was generated for the question. This piece of criteria is important because it makes sure that the user has a different question every time they take the quiz.
